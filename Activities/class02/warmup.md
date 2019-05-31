@@ -1,5 +1,7 @@
 # Information about Ethereum
-![infographic](./image01.png)
+![ethereum infographic](./ethereum-infographic.png)
+![timeline infographic](./timeline-infographic.png)
+
 
 ## Benefits
 ### What **benefits** does the Ethereum Virtual Machine provide?
@@ -31,6 +33,7 @@ The design behind Ethereum, based on the white paper, is intended to follow the 
 - **Modularity** - Ethereum protocol should be designed to be as modular and separable as possible.
 - **Agility** - The protocol is not set in stone and any opportunities to improve the protocol architecture or the EVM in scalability or security will be exploited.
 - **Non-Discrimination**/Non-Censorship - The protocol should not attempt to actively restrict or prevent specific categories of usage.
+
 
 # Further Information
 *Cibil* Attack
