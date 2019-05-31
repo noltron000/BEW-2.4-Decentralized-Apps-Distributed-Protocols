@@ -32,4 +32,5 @@ The design behind Ethereum, based on the white paper, is intended to follow the 
 - **Agility** - The protocol is not set in stone and any opportunities to improve the protocol architecture or the EVM in scalability or security will be exploited.
 - **Non-Discrimination**/Non-Censorship - The protocol should not attempt to actively restrict or prevent specific categories of usage.
 
+# Further Information
 *Cibil* Attack
