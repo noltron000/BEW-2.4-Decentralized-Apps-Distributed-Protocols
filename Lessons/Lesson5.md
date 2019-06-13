@@ -55,8 +55,8 @@ Each group should **answer the following questions** based on their assigned mar
 - What features does your marketplace have?
 - Find the **two most interesting tokens** sold on this marketplace.
 - How can you access this marketplace?
-  - Do you need to install additional software?
-  - How do you purchase something from this marketplace?
+	- Do you need to install additional software?
+	- How do you purchase something from this marketplace?
 
 ### Class Discussion (15 Minutes)
 
