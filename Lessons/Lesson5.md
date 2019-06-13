@@ -11,7 +11,8 @@
 ## Learning Objectives (5 Minutes)
 
 1. Identify and describe the differences between fungible and non-fungible assets stored on a blockchain.
-2. Understand and access a
+2. Discover, research, and discuss distributed app stores.
+3. Prepare Introduce two platforms that support custom dApp deployment.
 
 ## In Class Activity I (45 Minutes)
 
@@ -28,7 +29,7 @@ Distribute small whiteboards and ask students to write down the answers for the 
 | Which ERC defines **fungible tokens**?      | Which ERC defines a **NFT**?                    |
 | Find the URL for the above standard         | Find the URL for the above  standard            |
 | **How many** tokens use this ERC?           | **How many** tokens use this ERC?               |
-| Provide **>=3 examples** these token IRL    | Provide **>=3 examples** these token IRL
+| Provide **>=3 examples** these tokens IRL   | Provide **>=3 examples** these tokens IRL       |
 
 
 ### Class Discussion (15 Minutes)
@@ -41,19 +42,17 @@ Discuss the answers to the above questions. Allow each group to deliver their an
 
 ### Marketplace Mania (30 Minutes)
 
-Divide the class into 4 groups. Assign each a dApps marketplace from the list below:
+Divide the class into three groups. Assign each a dApps marketplace from the list below:
 
 - rarebits.io
 - opensea.io
 - odem.io
-- dether.io
 
 Each group should **answer the following questions** based on their assigned marketplace:
 
 - What does this marketplace enable?
 - How do you deploy your own dApp to this marketplace?
 - What features does your marketplace have?
-- Find the **two most interesting tokens** sold on this marketplace.
 - How can you access this marketplace?
   - Do you need to install additional software?
   - How do you purchase something from this marketplace?
