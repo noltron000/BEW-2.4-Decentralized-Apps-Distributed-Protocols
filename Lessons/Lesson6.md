@@ -2,11 +2,11 @@
 
 ### ⏱ Agenda
 
-1. [🏆 **5m**: Learning Objectives](#%F0%9F%8F%86-5m-learning-objectives)
-2. [📖 **20m**: Overview](#%F0%9F%93%96-20m-overview)
-3. [🌴 **10m**: Break](#%F0%9F%8C%B4-10m-break)
-4. [💻 **60m**: In Class Activity](#%F0%9F%92%BB-60m-in-class-activity)
-5. [📚 Resources & Credits](#%F0%9F%93%9A-resources--credits)
+1. [🏆 **5m**: Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
+2. [📖 **20m**: Overview](#%F0%9F%93%96-20m-Overview)
+3. [🌴 **10m**: Break](#%F0%9F%8C%B4-10m-Break)
+4. [💻 **60m**: In Class Activity](#%F0%9F%92%BB-60m-In-Class-Activity)
+5. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 **5m**: Learning Objectives
 
@@ -92,10 +92,11 @@ Create the initial architecture for your project during today's class.
 
 1. **Choose Your Own Adventure**: Solo or pair dApps project?
       1. **Pairs**: Generate ideas.
-2. Create a new GitHub repo and add it to the [Course Tracker](make.sc/trackbew2.4)
+2. Create a new GitHub repo and add it to the [Course Tracker](https://make.sc/trackbew2.4)
       1. Clone the repo locally and create an `example` branch.
       2. **Pairs**: Invite partner as a collaborator.
 3. Use the following [Guide to Writing and Testing Real World Contracts](https://hashnode.com/post/the-2018-guide-to-writing-and-testing-real-world-crowdsale-contracts-cjcs8dfes00apmdwthw03c2jq) to get set up with a project that will serve as the structure for your end-of-term project.
+      1. Comment out `Migrations.sol` and the first migration in the migrations folder.
 4. **Stretch Challenge**: Invent and develop an `ERC721` token contract with the Truffle Suite.
 5. **Stretch Challenge**: Add OpenZeppelin
       1. Get it working within the `example` branch.
